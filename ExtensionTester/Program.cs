@@ -17,6 +17,8 @@ namespace ExtensionTester
             TestToPower();
             Console.WriteLine();
             TestIsPalindrome();
+            Console.WriteLine();
+            TestEqualsIgnoreCase();
         }
 
         private static void TestPrintWithInt()
@@ -99,6 +101,24 @@ namespace ExtensionTester
             Console.WriteLine("Testing \"{0}\"", testString);
             Console.WriteLine("Expected: {0}", false);
             Console.WriteLine("Tested: {0}", testString.IsPalindrome());
+        }
+
+        private static void TestEqualsIgnoreCase()
+        {
+            Console.WriteLine("-----Test Equals Ignore Case-----");
+            String testString = "Bob";
+            String testString2 = "bob";
+            Console.WriteLine("Testing \"{0}\" and \"{1}\"", testString, testString2);
+            Console.WriteLine("Expected: {0}", true);
+            Console.WriteLine("Tested: {0}", testString.EqualsIgnoreCase(testString2));
+            PrintLineBreak();
+
+            testString = "Cuppycakes";
+            testString2 = "Are not muffins!";
+            Console.WriteLine("Testing \"{0}\" and \"{1}\"", testString, testString2);
+            Console.WriteLine("Expected: {0}", false);
+            Console.WriteLine("Tested: {0}", testString.EqualsIgnoreCase(testString2));
+            PrintLineBreak();
         }
 
         private static void PrintLineBreak()

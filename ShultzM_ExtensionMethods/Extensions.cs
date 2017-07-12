@@ -28,9 +28,9 @@ namespace ShultzM_ExtensionMethods
         /// <param name="baseNum"></param>
         /// <param name="exponent"></param>
         /// <returns>The calculated </returns>
-        public static int ToPower(this int baseNum, int exponent)
+        public static long ToPower(this int baseNum, int exponent)
         {
-            return (int) Math.Pow((double)baseNum, (double)exponent);
+            return (long) Math.Pow((double)baseNum, (double)exponent);
         }
 
         /// <summary>
@@ -50,10 +50,21 @@ namespace ShultzM_ExtensionMethods
         /// </summary>
         /// <param name="initialString">The string to be tested against</param>
         /// <param name="testingString">The string to test</param>
-        /// <returns>A bool indicating whether they equal or not</returns>
+        /// <returns>A bool indicating whether the two strings are equal or not</returns>
         public static bool EqualsIgnoreCase(this string initialString, string testingString)
         {
             return initialString.Equals(testingString, StringComparison.InvariantCultureIgnoreCase);
+        }
+
+        private static readonly Random rand = new Random();
+        public static int Random(this int maximum, int minimum)
+        {
+            return rand.Next(minimum, maximum + 1);
+        }
+
+        public static int Random(this int maximum)
+        {
+            return rand.Next(maximum + 1);
         }
     }
 }

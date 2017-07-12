@@ -6,3 +6,11 @@ c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\Ext
 c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ExtensionTester\obj\Debug\ExtensionTester.pdb
 c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ExtensionTester\bin\Debug\ShultzM_ExtensionMethods.dll
 c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ExtensionTester\bin\Debug\ShultzM_ExtensionMethods.pdb
+C:\Users\Mary\Documents\Visual Studio 2017\Application Development Projects\Extensions\ExtensionTester\bin\Debug\ExtensionTester.exe.config
+C:\Users\Mary\Documents\Visual Studio 2017\Application Development Projects\Extensions\ExtensionTester\bin\Debug\ExtensionTester.exe
+C:\Users\Mary\Documents\Visual Studio 2017\Application Development Projects\Extensions\ExtensionTester\bin\Debug\ExtensionTester.pdb
+C:\Users\Mary\Documents\Visual Studio 2017\Application Development Projects\Extensions\ExtensionTester\bin\Debug\ShultzM_ExtensionMethods.dll
+C:\Users\Mary\Documents\Visual Studio 2017\Application Development Projects\Extensions\ExtensionTester\bin\Debug\ShultzM_ExtensionMethods.pdb
+C:\Users\Mary\Documents\Visual Studio 2017\Application Development Projects\Extensions\ExtensionTester\obj\Debug\ExtensionTester.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Visual Studio 2017\Application Development Projects\Extensions\ExtensionTester\obj\Debug\ExtensionTester.exe
+C:\Users\Mary\Documents\Visual Studio 2017\Application Development Projects\Extensions\ExtensionTester\obj\Debug\ExtensionTester.pdb
