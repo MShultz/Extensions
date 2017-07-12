@@ -1,0 +1,8 @@
+c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ExtensionTester\bin\Debug\ExtensionTester.exe.config
+c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ExtensionTester\bin\Debug\ExtensionTester.exe
+c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ExtensionTester\bin\Debug\ExtensionTester.pdb
+c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ExtensionTester\obj\Debug\ExtensionTester.csprojResolveAssemblyReference.cache
+c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ExtensionTester\obj\Debug\ExtensionTester.exe
+c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ExtensionTester\obj\Debug\ExtensionTester.pdb
+c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ExtensionTester\bin\Debug\ShultzM_ExtensionMethods.dll
+c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ExtensionTester\bin\Debug\ShultzM_ExtensionMethods.pdb

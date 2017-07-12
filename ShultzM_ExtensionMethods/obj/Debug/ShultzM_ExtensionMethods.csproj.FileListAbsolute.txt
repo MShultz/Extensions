@@ -1,0 +1,4 @@
+c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ShultzM_ExtensionMethods\bin\Debug\ShultzM_ExtensionMethods.dll
+c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ShultzM_ExtensionMethods\bin\Debug\ShultzM_ExtensionMethods.pdb
+c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ShultzM_ExtensionMethods\obj\Debug\ShultzM_ExtensionMethods.dll
+c:\users\mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ShultzM_ExtensionMethods\obj\Debug\ShultzM_ExtensionMethods.pdb
