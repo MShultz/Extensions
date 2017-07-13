@@ -7,3 +7,4 @@ C:\Users\Mary\Documents\Visual Studio 2017\Application Development Projects\Exte
 C:\Users\Mary\Documents\Visual Studio 2017\Application Development Projects\Extensions\ShultzM_ExtensionMethods\obj\Debug\ShultzM_ExtensionMethods.csprojResolveAssemblyReference.cache
 C:\Users\Mary\Documents\Visual Studio 2017\Application Development Projects\Extensions\ShultzM_ExtensionMethods\obj\Debug\ShultzM_ExtensionMethods.dll
 C:\Users\Mary\Documents\Visual Studio 2017\Application Development Projects\Extensions\ShultzM_ExtensionMethods\obj\Debug\ShultzM_ExtensionMethods.pdb
+C:\Users\Mary\documents\visual studio 2017\Projects\ShultzM_ExtensionMethods\ShultzM_ExtensionMethods\obj\Debug\ShultzM_ExtensionMethods.csprojResolveAssemblyReference.cache
